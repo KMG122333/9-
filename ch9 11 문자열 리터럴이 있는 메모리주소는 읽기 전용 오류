@@ -5,7 +5,7 @@ int main(){
 
     s1[0] = 'A';
 
-    printf("%c\n", s1[0])
+    printf("%c\n", s1[0]);
     
     return 0;
 }
